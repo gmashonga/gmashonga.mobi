@@ -1,2 +1,2 @@
 # gmashonga.mobi
-Mobile reposotory
+Mobile reposotory for Android Mymall Project
